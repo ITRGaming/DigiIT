@@ -2,3 +2,9 @@ body {
 background: #202020;
 color: rgb(191, 246, 253)
 }
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
